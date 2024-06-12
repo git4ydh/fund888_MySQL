@@ -1,0 +1,7 @@
+streamlit-lottie
+streamlit
+json
+cryptography
+pandas
+sqlalchemy
+pymysql
